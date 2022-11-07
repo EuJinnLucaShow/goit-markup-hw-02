@@ -1,0 +1,31 @@
+body {
+
+    font-family: "Open Sans", 'Raleway', sans-serif;
+
+}
+
+.webstudio {
+    font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        /* identical to box height */
+    
+        letter-spacing: 0.03em;
+    
+        color: #2196F3;
+}
+
+span {
+    color: black;
+}
+
+.menu > a {
+position: absolute;
+    width: 281px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+}
+
