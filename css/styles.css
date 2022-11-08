@@ -1,6 +1,6 @@
 body {
     background-color: #FFFFFF;
-    font-family: "Open Sans", 'Raleway', 'Roboto' sans-serif;
+    font-family: "Open Sans", 'Raleway', 'Roboto';
 
 }
 
@@ -178,6 +178,9 @@ position: absolute;
         top: 774px;
 }
 
+
+
+
 .sectiontree {
     position: absolute;
         width: 1170px;
@@ -186,6 +189,21 @@ position: absolute;
         top: 966px;
 }
 
+.box1 {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 215px;
+        top: 1058px;
+}
+
+.box2 {
+    position: absolute;
+        width: 370px;
+        height: 294px;
+        left: 615px;
+        top: 1058px;
+}
 .sectionfour {
     position: absolute;
         width: 1600px;
