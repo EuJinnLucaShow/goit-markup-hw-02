@@ -32,6 +32,31 @@ span {
     color: #000000;
 }
 
+header {
+    position: absolute;
+        width: 1600px;
+        height: 80px;
+        left: 0px;
+        top: 0px;
+    
+        background: #FFFFFF;
+}
+
+.studio {
+    position: absolute;
+        width: 45px;
+        height: 16px;
+        left: 453px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+}
+
 .hero {
     position: absolute;
     width: 1600px;
