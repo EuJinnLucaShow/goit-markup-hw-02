@@ -50,6 +50,39 @@ header {
     color: #2196F3;
 }
 
+.mail {
+    position: absolute;
+        width: 135px;
+        height: 16px;
+        left: 1078px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+
+        color: #757575;
+}
+
+.tel {
+    position: absolute;
+        width: 122px;
+        height: 16px;
+        left: 1263px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #757575;
+}
 
 .studio {
     position: absolute;
@@ -113,24 +146,24 @@ header {
 }
 
 .title {
-    position: absolute;
-        width: 696px;
-        height: 120px;
-        left: 452px;
-        top: 280px;
-    
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 900;
-        font-size: 44px;
-        line-height: 60px;
-        /* or 136% */
-    
-        text-align: center;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-    
-        color: #FFFFFF;
+position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
 }
 .button {
     position: absolute;
