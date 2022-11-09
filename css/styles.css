@@ -1,7 +1,7 @@
 body {
     background-color: #FFFFFF;
-    font-family: "Open Sans", 'Raleway', 'Roboto';
-    
+    color: #212121;
+    font-family: "Open Sans", 'Raleway', 'Roboto';    
 }
 
 a {
@@ -49,6 +49,7 @@ header {
 .link:hover {
     color: #2196F3;
 }
+
 
 .studio {
     position: absolute;
