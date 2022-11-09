@@ -9,6 +9,10 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style: none;
+}
+
 .logo {
     position: absolute;
         width: 145px;
@@ -42,6 +46,10 @@ header {
         background: #FFFFFF;
 }
 
+.link:hover {
+    color: #2196F3;
+}
+
 .studio {
     position: absolute;
         width: 45px;
@@ -55,6 +63,42 @@ header {
         font-size: 14px;
         line-height: 16px;
         letter-spacing: 0.02em;
+
+        color: #212121;
+}
+
+.portfolio {
+    position: absolute;
+        width: 72px;
+        height: 16px;
+        left: 548px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #212121;
+}
+
+.contact {
+    position: absolute;
+        width: 64px;
+        height: 16px;
+        left: 670px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #212121;
 }
 
 .hero {
