@@ -1,5 +1,6 @@
 :root {
     --primary-text-color: #212121;
+    --second-text-color: #757575;
     --primary-white-color: #FFFFFF;
 }
 
@@ -49,7 +50,7 @@ span {
         line-height: 1.14;
         letter-spacing: 0.02em;
 
-        color: #757575;
+        color: var(--second-text-color);
 }
 
 .tel {
@@ -59,7 +60,7 @@ span {
         line-height: 1.14;
         letter-spacing: 0.02em;
     
-        color: #757575;
+        color: var(--second-text-color);
 }
 
 .studio {
