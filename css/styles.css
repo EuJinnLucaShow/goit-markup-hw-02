@@ -13,7 +13,6 @@ ul {
 
 .logo-header {
         font-family: 'Raleway';
-        font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 31px;
@@ -32,7 +31,6 @@ span {
 
 .mail {
         font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
@@ -43,7 +41,6 @@ span {
 
 .tel {
         font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
@@ -54,7 +51,6 @@ span {
 
 .studio {
         font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
@@ -65,7 +61,6 @@ span {
 
 .portfolio {
         font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
@@ -76,7 +71,6 @@ span {
 
 .contact {
         font-family: 'Roboto';
-        font-style: normal;
         font-weight: 500;
         font-size: 14px;
         line-height: 16px;
@@ -91,7 +85,6 @@ span {
 
 .title {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
