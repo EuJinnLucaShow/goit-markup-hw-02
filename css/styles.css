@@ -105,6 +105,12 @@ span {
         cursor: pointer;
 }
 
+.button:hover,
+.button:focus {
+    background: #188CE8;
+    color: white;
+}
+
 .btn {
     background: #F5F4FA;
     color: #212121;
