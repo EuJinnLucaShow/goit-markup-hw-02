@@ -1,6 +1,4 @@
 body {
-    background-color: #FFFFFF;
-    color: #212121;
     font-family: "Open Sans", 'Raleway', 'Roboto';    
 }
 
@@ -14,36 +12,17 @@ ul {
 }
 
 .logo-header {
-    position: absolute;
-        width: 145px;
-        height: 31px;
-        left: 215px;
-        top: 24px;
-    
         font-family: 'Raleway';
         font-style: normal;
         font-weight: 700;
         font-size: 26px;
         line-height: 31px;
-        /* identical to box height */
-    
-        letter-spacing: 0.03em;
-    
+        
         color: #2196F3;        
 }
 
 span {
     color: #000000;
-}
-
-header {
-    position: absolute;
-        width: 1600px;
-        height: 80px;
-        left: 0px;
-        top: 0px;
-    
-        background: #FFFFFF;
 }
 
 .link:hover,
@@ -52,12 +31,6 @@ header {
 }
 
 .mail {
-    position: absolute;
-        width: 135px;
-        height: 16px;
-        left: 1078px;
-        top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -69,12 +42,6 @@ header {
 }
 
 .tel {
-    position: absolute;
-        width: 122px;
-        height: 16px;
-        left: 1263px;
-        top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -86,12 +53,6 @@ header {
 }
 
 .studio {
-    position: absolute;
-        width: 45px;
-        height: 16px;
-        left: 453px;
-        top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -103,12 +64,6 @@ header {
 }
 
 .portfolio {
-    position: absolute;
-        width: 72px;
-        height: 16px;
-        left: 548px;
-        top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -120,12 +75,6 @@ header {
 }
 
 .contact {
-    position: absolute;
-        width: 64px;
-        height: 16px;
-        left: 670px;
-        top: 32px;
-    
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
@@ -137,22 +86,10 @@ header {
 }
 
 .hero {
-    position: absolute;
-    width: 1600px;
-    height: 600px;
-    left: 0px;
-    top: 80px;
-    
     background: #2F303A;
 }
 
 .title {
-position: absolute;
-    width: 696px;
-    height: 120px;
-    left: 452px;
-    top: 280px;
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
@@ -168,21 +105,27 @@ position: absolute;
 }
 
 .button {
-    position: absolute;
-        width: 216px;
-        height: 50px;
-        left: 692px;
-        top: 430px;
-    
         background: #2196F3;
+        color: white;
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
         border-radius: 4px;
+        border: none;
 }
 
-.img1 {
-    position: absolute;
-        width: 370px;
-        height: 294px;
-        left: 215px;
-        top: 1058px;
+.btn {
+    background: #F5F4FA;
+    color: #212121;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    border: none;
+}
+
+.btn:hover, .btn:focus {
+    background: #2196F3;
+    color: white;
+}
+
+footer {
+    background: #2F303A;
+    color: #FFFFFF;
 }
