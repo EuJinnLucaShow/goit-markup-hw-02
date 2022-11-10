@@ -11,13 +11,17 @@ ul {
     list-style: none;
 }
 
-.logo-header {
+.logo {
         font-family: 'Raleway';
         font-weight: 700;
         font-size: 26px;
         line-height: 31px;
         
         color: #2196F3;        
+}
+
+.logo-footer {
+    color: #FFFFFF;
 }
 
 span {
